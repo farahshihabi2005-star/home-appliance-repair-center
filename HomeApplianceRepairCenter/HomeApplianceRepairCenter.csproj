@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>HomeApplianceRepairCenter</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- يسمح بتشغيل البرنامج على نسخ .NET الأحدث إذا لم تتوفر النسخة 8 -->
+    <RollForward>LatestMajor</RollForward>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\asus\\Desktop\\TIC_IPG203_HW_F25_C3_deema_326151_C3_farah_336094_C3_aya_322439_C3_Jeme_238787_C3_doaa_153884.pdf\\HomeApplianceRepairCenter\\HomeApplianceRepairCenter\\HomeApplianceRepairCenter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\asus\\Desktop\\TIC_IPG203_HW_F25_C3_deema_326151_C3_farah_336094_C3_aya_322439_C3_Jeme_238787_C3_doaa_153884.pdf\\HomeApplianceRepairCenter\\HomeApplianceRepairCenter\\HomeApplianceRepairCenter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\TIC_IPG203_HW_F25_C3_deema_326151_C3_farah_336094_C3_aya_322439_C3_Jeme_238787_C3_doaa_153884.pdf\\HomeApplianceRepairCenter\\HomeApplianceRepairCenter\\HomeApplianceRepairCenter.csproj",
+        "projectName": "HomeApplianceRepairCenter",
+        "projectPath": "C:\\Users\\asus\\Desktop\\TIC_IPG203_HW_F25_C3_deema_326151_C3_farah_336094_C3_aya_322439_C3_Jeme_238787_C3_doaa_153884.pdf\\HomeApplianceRepairCenter\\HomeApplianceRepairCenter\\HomeApplianceRepairCenter.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\TIC_IPG203_HW_F25_C3_deema_326151_C3_farah_336094_C3_aya_322439_C3_Jeme_238787_C3_doaa_153884.pdf\\HomeApplianceRepairCenter\\HomeApplianceRepairCenter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

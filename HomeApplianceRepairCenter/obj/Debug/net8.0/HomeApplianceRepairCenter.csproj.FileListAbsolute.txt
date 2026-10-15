@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\bin\Debug\net8.0\HomeApplianceRepairCenter.exe
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\bin\Debug\net8.0\HomeApplianceRepairCenter.deps.json
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\bin\Debug\net8.0\HomeApplianceRepairCenter.runtimeconfig.json
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\bin\Debug\net8.0\HomeApplianceRepairCenter.dll
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\bin\Debug\net8.0\HomeApplianceRepairCenter.pdb
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.AssemblyInfo.cs
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.dll
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\obj\Debug\net8.0\refint\HomeApplianceRepairCenter.dll
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.pdb
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.genruntimeconfig.cache
+C:\Users\asus\Desktop\HomeApplianceRepairCenter\HomeApplianceRepairCenter\HomeApplianceRepairCenter\obj\Debug\net8.0\ref\HomeApplianceRepairCenter.dll
